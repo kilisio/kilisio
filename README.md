@@ -7,7 +7,7 @@ I have practical experience with a wide range of technologies including:
 
 1. Rust
 2. TypeScript
-3. Deno4
+3. Deno
 4. JavaScript
 5. VueJS
 6. SolidJS
