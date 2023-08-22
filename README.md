@@ -5,18 +5,17 @@
 
 I have practical experience with a wide range of technologies including: 
 
-1. Rust _`Beginner`_
-2. TypeScript _`Intermediate`_
-3. Deno _`Intermediate`_
-4. JavaScript _`Professional`_
-5. VueJS _`Intermediate`_
-6. SolidJS _`Intermediate`_
-7. Kotlin _`Beginner`_
-8. Python _`Beginner`_
-9. Django _`Beginner`_
-10. PostgreSQL _`Intermediate`_
-11. Docker _`Intermediate`_
-12. Neovim _`Professional`_
-13. Linux _`Professional`_
+1. Rust $\color{red}{`Beginner`}$
+2. TypeScript $\color{red}{`Intermediate`}$
+3. Deno $\color{red}{`Intermediate`}$
+4. JavaScript $\color{red}{`Professional`}$
+5. VueJS $\color{red}{`Intermediate`}$
+6. SolidJS $\color{red}{`Intermediate`}$
+7. Kotlin $\color{red}{`Beginner`}$
+8. Python $\color{red}{`Beginner`}$
+9. Django $\color{red}{`Beginner`}$
+10. PostgreSQL $\color{red}{`Intermediate`}$
+11. Docker $\color{red}{`Intermediate`}$
+12. Neovim $\color{red}{`Professional`}$
+13. Linux $\color{red}{`Professional`}$
 14. ...
-15. testing color $\color{red}{text}$
