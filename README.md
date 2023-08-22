@@ -5,7 +5,7 @@
 
 I have practical experience with a wide range of technologies including: 
 
-1. Rust `$${\color{green}Beginner}$$`
+1. Rust $${\color{green}Beginner}$$
 2. TypeScript `Intermediate`
 3. Deno `Intermediate`
 4. JavaScript `Professional`
