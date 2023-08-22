@@ -1,22 +1,22 @@
+
 ### Hello! 👋, I'm Kilisio
 
 > Software Engineer and an aspiring Data Analyst.
 
-I have practical experience with a wide range of technologies including:
+I have practical experience with a wide range of technologies including: 
 
-<ol>
-    <li>Rust $${\color{Beginner}Green}$$</li>
-    <li>TypeScript Intermediate</li>
-    <li>Deno Intermediate</li>
-    <li>JavaScript Professional</li>
-    <li>VueJS Intermediate</li>
-    <li>SolidJS Intermediate</li>
-    <li>Kotlin Beginner</li>
-    <li>Python Beginner</li>
-    <li>Django Beginner</li>
-    <li> PostgreSQL Intermediate</li>
-    <li> Docker Intermediate</li>
-    <li> Neovim Professional</li>
-    <li> Linux Professional</li>
-    <li> ... </li>
-</ol>
+1. Rust $${\color{Test}Green}$$`Begginer`
+2. TypeScript `Intermediate`
+3. Deno `Intermediate`
+4. JavaScript `Professional`
+5. VueJS `Intermediate`
+6. SolidJS `Intermediate`
+7. Kotlin `Begginer`
+8. Python `Begginer`
+9. Django `Begginer`
+10. PostgreSQL `Intermediate`
+11. Docker `Intermediate`
+12. Neovim `Professional`
+13. Linux `Professional`
+14. ...
+
