@@ -13,8 +13,8 @@ I have practical experience with a wide range of technologies including:
 6. SolidJS $\color{orange}{Intermediate}$
 7. Kotlin $\color{blue}{Beginner}$
 8. Python $\color{blue}{Beginner}$
-9. Django $\color{green}{Beginner}$
-10. PostgreSQL $\color{orange}{Intermediate}$
+9. Django $\textcolor{green}{Beginner}$
+10. PostgreSQL $\textcolor{orange}{Intermediate}$
 11. Docker $\color{orange}{Intermediate}$
 12. Neovim $\color{red}{Professional}$
 13. Linux $\color{red}{Professional}$
