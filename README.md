@@ -19,4 +19,4 @@ I have practical experience with a wide range of technologies including:
 12. Neovim _`Professional`_
 13. Linux _`Professional`_
 14. ...
-$\colorbox{red}{text}$
+15. testing color $\color{red}{text}$
