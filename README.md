@@ -10,7 +10,7 @@ I have practical experience with a wide range of technologies including:
 3. Deno _`Intermediate`_
 4. JavaScript _`Professional`_
 5. VueJS _`Intermediate`_
-6. SolidJS _`Intermediate`_
+6. C _`Intermediate`_
 7. Kotlin _`Beginner`_
 8. Python _`Beginner`_
 9. Django _`Beginner`_
