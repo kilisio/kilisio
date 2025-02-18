@@ -1,7 +1,7 @@
 
 ### Hello! 👋, I'm Kilisio
 
-> Software Engineer and an aspiring Data Analyst.
+> Software Engineer.
 
 I have practical experience with a wide range of technologies including: 
 
